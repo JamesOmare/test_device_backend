@@ -2,6 +2,7 @@
 .env.local
 .env*
 admin.txt
+readme.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
